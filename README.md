@@ -1,4 +1,4 @@
-# python_OOP
+# Python_OOP
 Included are various Object Oriented Proggraming scripts that demonstrate various prgraming concepts such as queues and stack.
 
 These scripts are created as part of my A-level computer science lessons in which our teacher gives us various problems such as make a stack in python
