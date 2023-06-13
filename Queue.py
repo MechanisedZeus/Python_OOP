@@ -31,5 +31,3 @@ def demo():
     print(q.deQueue())
     q.enQueue(88)
     q.enQueue(98)
-
-demo()    
