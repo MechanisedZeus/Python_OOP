@@ -20,9 +20,6 @@ class Queue:
             self.front += 1
         return output
 
-
-    
-
 def demo():
     q = Queue(2)
     q.enQueue(10)
