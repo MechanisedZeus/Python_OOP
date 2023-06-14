@@ -31,5 +31,3 @@ def demo():
     h.remove(45)
     print(h.show())
     h.check(88)
-
-demo()
