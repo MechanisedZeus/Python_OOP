@@ -3,14 +3,14 @@ class Hash_table:
         self.data = []
     
     def add(self,data):
-        index = data // 5
+        index = data // (data // 3)
         self.data.insert(index,data)
 
     def remove(self,data):
         self.data.remove(data)
 
     def check(self,data):
-        index = data // 5
+        index = data // (data // 3)
         if self.data[index] == data:
             return True
         else:
